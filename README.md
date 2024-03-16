@@ -1,0 +1,1 @@
+I have created a Power BI dashboard that presentsessential call center KPIs, encompassing overall customer satisfaction, rates of calls answered/abandoned, call volume trends over time,average speed of answer, and an agent performance quadrant based on average handle time and calls answered.
